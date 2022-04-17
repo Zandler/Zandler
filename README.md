@@ -1,4 +1,4 @@
-### Hi there, I'm [Zandler!](https://iamaashishpatel.ml) 👋
+### Hi there, I'm [Zandler!](https://zandler.com.br) 👋
 
 
 I am a problems solver, but sometimes head devops and architecture. 
@@ -6,8 +6,8 @@ I am a problems solver, but sometimes head devops and architecture.
 
 - 🏆 Devopbootcamp - consultant | Head of SRE and Architecture
 - 👨‍💻 Move 🌐 to ☁️ 
-- ✍️ trying to  write technical blog on Medium -
-t- 📜️ More about my experiences on [LinkedIn](https://br.linkedin.com/in/zandler-oliveira)
+- ✍️ trying to  write technical blog on Medium
+- 📜️ More about my experiences on [LinkedIn](https://br.linkedin.com/in/zandler-oliveira)
 
 
 
@@ -18,16 +18,10 @@ t- 📜️ More about my experiences on [LinkedIn](https://br.linkedin.com/in/za
 <a title="Azure"><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png"></a>
 <a title="Kubernetes"><img height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a>
 <a title="Terraform"><img height="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"></a>
-<a title="GCP" href="https://medium.com/@zandler"><img height="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a>
 <a title="Docker"><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a>
-<a title="Helm"><img height="40" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg"></a>
-<a title="Prometheus"><img height="40" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"></a>
-<a title="Grafana"><img height="40" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"></a>
-<a title="ArgoCD"><img height="40" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg"></a>-->
+<a title="ArgoCD"><img height="40" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg"></a>
 <a title="Python"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a>
 <a title="Linux"><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></a>
-<a title="Bash"><img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></a>
-<a title="Jenkins"><img height="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></a>
 <a title="Ansible"><img height="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"></a>
 
 
