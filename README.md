@@ -1,7 +1,7 @@
 ### Hi there, I'm [Zandler!](https://zandler.com.br) 👋
 
 
-I am a problems solver, but sometimes head devops and architecture. 
+I work solving problems and sing to the moon
 
 
 - 🏆 Devopbootcamp - consultant | Head of SRE and Architecture
