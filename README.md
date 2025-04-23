@@ -4,8 +4,8 @@
 I work solving problems and sing to the moon
 
 
-- 🏆 Devopbootcamp - consultant | Head of SRE and Architecture
-- 👨‍💻 Move 🌐 to ☁️ 
+- 🏆 SRE / Devops , but, sometimes solutions architect 
+- 👨‍💻 Move  to ☁️ 
 - ✍️ trying to  write technical blog on Medium
 - 📜️ More about my experiences on [LinkedIn](https://br.linkedin.com/in/zandler-oliveira)
 
@@ -36,7 +36,6 @@ I work solving problems and sing to the moon
 
 ### 📕️ My Publications
 
-- no one at now
 
 
 <br/>
